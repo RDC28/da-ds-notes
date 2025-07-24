@@ -1,0 +1,8 @@
+hello world.
+this is python.
+how are
+you today
+you tomorrow
+you yesterday
+you day after tomorrow
+you on the weekend
