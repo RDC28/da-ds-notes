@@ -3,3 +3,5 @@ pandas
 notebook
 faker
 mysql-connector-python
+matplotlib
+seaborn
